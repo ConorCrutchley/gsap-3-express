@@ -1,0 +1,1 @@
+gsap.to(".fred", { x: 400, y: 200, scale: 3, rotation: 360, duration: 3 });
